@@ -11,13 +11,6 @@ function App() {
       content:
         "With growing attack surfaces, securing endpoints remains critical in any modern enterprise...",
     },
-    {
-      id: 2,
-      title: "The Rise of Zero Trust Architectures",
-      date: "May 7, 2025",
-      content:
-        "Zero trust is more than a buzzword—it’s a strategic shift in security posture...",
-    },
   ]);
 
   return (
